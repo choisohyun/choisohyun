@@ -2,9 +2,8 @@
 
 | 👀 I am      | - **Front-end Developer**<br>- I like to share what I know and grow together.              |
 | ------------ | ------------------------------------------------------------------------------------------ |
-| 📙 Languages | - `intermediate` Javascript(Vanilla, React)<br>- `beginner` Python(ML, DL, crawling), Java |
-| 🌈 Resume    | [Resume Link](https://github.com/choisohyun/choisohyun/blob/master/choisohyun_resume.pdf)  |
-| 💡Contact    | - Tisotry Blog: https://egg-programmer.tistory.com/<br>- Email: sohyun4283@naver.com       |
+| 🌈 Resume    | [Resume Link](https://egg-programmer.tistory.com/notice/308)  |
+| 💡Contact    | - Blog: https://egg-programmer.tistory.com/<br>- Email: <a href="mailto:sohyun4283@naver.com">sohyun4283@naver.com</a>       |
 
 [![choisohyun's github stats](https://github-readme-stats-git-master.choisohyun.vercel.app/api?username=choisohyun&show_icons=true)](https://github.com/choisohyun)
 
