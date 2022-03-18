@@ -37,10 +37,11 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choisohyun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![choisohyun's github stats](https://github-readme-stats-git-master.choisohyun.vercel.app/api?username=choisohyun&show_icons=true)](https://github.com/choisohyun)
+[![choisohyun's github stats](https://github-readme-stats.vercel.app/api?username=choisohyun&show_icons=true&theme=gruvbox)](https://github.com/choisohyun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisohyun&layout=compact)](https://github.com/choisohyun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisohyun&layout=compact&theme=dark)](https://github.com/choisohyun)
 
 
 </div>
