@@ -43,5 +43,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisohyun&layout=compact&theme=dark)](https://github.com/choisohyun)
 
+<!--
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choisohyun&theme=solarized_dark)
+
+--!>
 </div>
