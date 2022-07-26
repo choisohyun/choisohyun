@@ -12,7 +12,6 @@
 
 | 👀 I am      | - **Front-end Developer**<br>- I like to share what I know and grow together.              |
 | ------------ | ------------------------------------------------------------------------------------------ |
-| 🌈 Resume    | [Resume Link](https://egg-programmer.tistory.com/notice/308)  |
 | 💡Contact    | - Blog: https://egg-programmer.tistory.com/<br>- Email: <a href="mailto:sohyun4283@naver.com">sohyun4283@naver.com</a>       |
   
 ## Stacks
