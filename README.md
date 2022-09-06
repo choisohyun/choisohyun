@@ -36,6 +36,8 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>
 
+[![Tistory Dark Theme](https://tistory-readme-stats.vercel.app/api?name=egg-programmer&description=%EC%96%B4%EC%A0%9C%EB%B3%B4%EB%8B%A4%20%EC%98%A4%EB%8A%98%20%EB%B0%9C%EC%A0%84%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EA%B3%B5%EA%B0%84&color=dark)](https://egg-programmer.tistory.com/)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choisohyun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![choisohyun's github stats](https://github-readme-stats.vercel.app/api?username=choisohyun&show_icons=true&theme=gruvbox)](https://github.com/choisohyun)
