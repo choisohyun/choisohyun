@@ -3,11 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f2c343&height=200&section=header&text=choisohyun's%20profile&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=F7F5F5)
 
-
-![GitHub followers](https://img.shields.io/github/followers/choisohyun?style=social)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoisohyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## About Me
 
 | 👀 I am      | - **Front-end Developer**<br>- I like to share what I know and grow together.              |
