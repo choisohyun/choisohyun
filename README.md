@@ -1,13 +1,10 @@
 <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=f2c343&height=200&section=header&text=choisohyun's%20profile&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&fontColor=F7F5F5)
-
 ## About Me
 
-| 👀 I am      | - **Front-end Developer**<br>- I like to share what I know and grow together.              |
-| ------------ | ------------------------------------------------------------------------------------------ |
-| 💡Contact    | - Blog: https://egg-programmer.tistory.com/<br>- Email: <a href="mailto:sohyun4283@naver.com">sohyun4283@naver.com</a>       |
+Blog: https://egg-programmer.tistory.com/
+
+Email: <a href="mailto:sohyun4283@naver.com">sohyun4283@naver.com</a>
   
 ## Stacks
   
@@ -18,8 +15,6 @@
 
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-
 
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>
@@ -31,17 +26,4 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>
 
-[![Tistory Dark Theme](https://tistory-readme-stats.vercel.app/api?name=egg-programmer&description=%EC%96%B4%EC%A0%9C%EB%B3%B4%EB%8B%A4%20%EC%98%A4%EB%8A%98%20%EB%B0%9C%EC%A0%84%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EA%B3%B5%EA%B0%84&color=dark)](https://egg-programmer.tistory.com/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choisohyun&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![choisohyun's github stats](https://github-readme-stats.vercel.app/api?username=choisohyun&show_icons=true&theme=gruvbox)](https://github.com/choisohyun)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisohyun&layout=compact&theme=dark)](https://github.com/choisohyun)
-
-<!--
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choisohyun&theme=solarized_dark)
-
---!>
-</div>
